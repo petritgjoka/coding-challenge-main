@@ -1,0 +1,49 @@
+body {
+    background-color: #E8EAF0;
+    color: #444444;
+    font-size: 18px;
+}
+
+.container {
+    background-color: #E8EAF0;
+    padding: 30px;
+}
+
+.nav {background-color: #D8DAE2;}
+
+.nav-link {margin-left: 30px;
+margin-right: 30px;}
+
+
+#todoList li {
+    background-color: #ffffff;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+
+    .btn:not(:disabled):not(.disabled) {
+        margin-right: -70px;
+    }
+
+
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
+
+
+.list-group-item {border: none;}
+
+
+.bg-light {
+    background-color: #D8DAE2!important;
+} 
+
+.form-control {padding: 30px;}
+
+
+#clearBtn {
+    margin-top: 20px;  /* Adjust the top margin for spacing */
+}
